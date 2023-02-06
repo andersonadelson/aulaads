@@ -1,1 +1,2 @@
 # aulaads
+# Git e Python
